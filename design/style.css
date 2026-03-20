@@ -103,7 +103,7 @@ p {
 .Daniel {
   color: white;
   background-color: var(--Purple-500);
-  background-image: url("./images/bg-pattern-quotation.svg");
+  background-image: url("/images/bg-pattern-quotation.svg");
   background-repeat: no-repeat;
   background-position: right 15% top;
   grid-column: 1/3;
